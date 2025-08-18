@@ -56,7 +56,7 @@ python scripts/make_synthetic.py
 ---
 
 ## Authors
-- **Ginel Dorleon et al.** 
+removed while paper is under review
 
 ## Citation
 If you use this code, please cite:
