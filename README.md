@@ -4,8 +4,7 @@ Code to reproduce the experiments from the paper *"Detecting Framing Bias in New
 
 - Proposed **CRF** with lexicon + embedding features, sentence-level labels -> article-level.
 - Baselines: **BERT**, **ConvBERT**.
-- Tasks: main results, ablations, cross-domain, subtype breakdown, learning curves.
-- Figures generated from CSVs.
+- Tasks: main results, ablations, cross-domain, subtype breakdown
 
 ## Unified JSONL Format
 ```json
