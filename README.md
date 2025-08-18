@@ -52,3 +52,19 @@ bash scripts/make_figs.sh
 ```bash
 python scripts/make_synthetic.py
 ```
+
+---
+
+## Authors
+- **Ginel Dorleon et al.** 
+
+## Citation
+If you use this code, please cite:
+
+```bibtex
+@inproceedings{...,
+  title     = {Detecting Framing Bias in News via Probabilistic Graphical Modeling},
+  author    = {....},
+  booktitle = {Under review},
+  year      = {2025}
+}
