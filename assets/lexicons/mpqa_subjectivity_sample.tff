@@ -1,0 +1,3 @@
+# type=strongsubj len=1 word1=heroic pos1=adj stemmed1=n priorpolarity=positive
+# type=strongsubj len=1 word1=disastrous pos1=adj stemmed1=n priorpolarity=negative
+# type=weaksubj len=1 word1=allegedly pos1=adv stemmed1=n priorpolarity=neutral

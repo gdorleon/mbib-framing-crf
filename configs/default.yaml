@@ -1,0 +1,23 @@
+seed: 42
+max_seq_length: 512
+use_transitions: true
+use_lexicons: true
+use_embeddings: true
+embedding_model: bert-base-uncased
+embedding_layer: -1
+embedding_pool: mean
+embedding_pca_dim: 50
+crf:
+  max_iterations: 50
+  l2_reg: 0.01
+transformer:
+  arch: bert
+  model_name: bert-base-uncased
+  learning_rate: 2e-5
+  epochs: 3
+  per_device_train_batch_size: 8
+  per_device_eval_batch_size: 8
+  weight_decay: 0.01
+  warmup_ratio: 0.06
+  gradient_accumulation_steps: 1
+  fp16: false
