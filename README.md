@@ -64,7 +64,10 @@ If you use this code, please cite:
 ```bibtex
 @inproceedings{...,
   title     = {Detecting Framing Bias in News via Probabilistic Graphical Modeling},
-  author    = {....},
-  booktitle = {Under review},
-  year      = {2025}
+  author    = {S Shujaa and G. Dorleon},
+  booktitle = {Proceedings of the ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025)},
+  year      = {2025},
+  month     = dec,
+  note      = {Fully virtual conference, December 15--19, 2025}
 }
+
