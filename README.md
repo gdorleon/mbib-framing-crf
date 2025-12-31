@@ -1,3 +1,7 @@
+## Read the paper:  
+[Detecting Framing Bias in News via Probabilistic
+Graphical Modeling.pdf](src/Detecting%20Framing%20Bias%20in%20News%20via%20Probabilistic.pdf)
+
 # MBIB Framing Bias Experiments (CRF + Transformers)
 
 Code to reproduce the experiments from the paper *"Detecting Framing Bias in News via Probabilistic Graphical Modeling"*.
@@ -55,8 +59,6 @@ python scripts/make_synthetic.py
 
 ---
 
-## Authors
-removed while paper is under review
 
 ## Citation
 If you use this code, please cite:
